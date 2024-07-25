@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "920435088931",
+    "project_id": "dilexus-dev",
+    "storage_bucket": "dilexus-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920435088931:android:0806fc5cca6c4852b39b96",
+        "android_client_info": {
+          "package_name": "dev.dilexus.aitest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcQ-Lera_S_3cA2rKckPuW2wJCS3eXZv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
